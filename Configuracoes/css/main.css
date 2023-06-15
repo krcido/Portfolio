@@ -2583,5 +2583,9 @@ input, select, textarea {
 		height: 300px;
 		border-radius: 10px;
 	  }
+
+	  .side-video{
+		width: 400px;
+	  }
 	  
 	  
