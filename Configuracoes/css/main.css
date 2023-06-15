@@ -235,7 +235,6 @@ input, select, textarea {
 				width: 100%;
 				max-width: 100%;
 			}
-
 		}
 
 /* Row */
@@ -1873,6 +1872,7 @@ input, select, textarea {
 		background-size: 100% 100%, 100% 15em, auto auto;
 		background-position: top left, top center, top left;
 		padding: 7em 0 7em 0;
+		
 	}
 
 	.wrapper {
@@ -2393,10 +2393,12 @@ input, select, textarea {
 
 			#header-wrapper {
 				background-position: 35% 50%;
+				
 			}
 
 			#footer-wrapper {
 				padding: 3em 20px 3em 20px;
+				
 			}
 
 				#footer-wrapper section, #footer-wrapper article {
